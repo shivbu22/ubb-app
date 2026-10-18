@@ -1,0 +1,37 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Build output
+/build
+/app/build
+
+# Gradle
+.gradle
+/gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# Signing
+*.jks
+*.keystore
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+node_modules/
+.venv/
+venv/
+.env
+__pycache__/
+app/build/intermediates/intermediary_bundle/release/packageReleaseBundle/intermediary-bundle.aab
+app/build/intermediates/intermediary_bundle/release/shrinkBundleReleaseResources/intermediary-bundle.aab
+app/build/outputs/mapping/release/mapping.txt
